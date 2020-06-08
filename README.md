@@ -9,23 +9,23 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.jobbole.com/jqwidgets-jquery-html5-ui/)》
-  - 《[Bootstrap：Web前端开发框架](http://hao.jobbole.com/bootstrap/)》
-  - 《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hwww.importnew.com/)。可参考已整理的内容：
+  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://www.importnew.com/jqwidgets-jquery-html5-ui/)》
+  - 《[Bootstrap：Web前端开发框架](http://www.importnew.com/bootstrap/)》
+  - 《[YUI Compressor：JS/CSS压缩工具](http://www.importnew.com/yui-compressor/)》
 
 * * *
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
 * 英文还不错，能读懂英文并用自己的话复述；
 * 在用 JavaScript；
 
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」 -->
 
 * * *
 
@@ -45,13 +45,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)
+- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)、[邢敏](https://github.com/dfghj44444)、[张小然](https://github.com/hellozhangran)
 
 注：名单不分排名，不定期补充更新
 
 * * *
 
-### 奖励计划
+<!-- ### 奖励计划
 
 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
 
@@ -59,7 +59,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
 * [奖励详情](http://hao.jobbole.com/rewards/)
 
-* * *
+* * * -->
 ### 目录
 
 * [JavaScript资源大全中文版](#awesome-javascript-cn)
@@ -71,6 +71,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
   * [MVC 框架和库](#mvc-frameworks-and-libraries)
   * [基于 Node 的 CMS 框架](#node-powered-cms-frameworks)
   * [模板引擎](#templating-engines)
+  * [Flux](#data-flow)
   * [数据可视化](#data-visualization)
     * [时间轴](#timeline)
   * [编辑器](#editors)
@@ -96,6 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [API](#api)
     * [视觉检测](#vision-detection)
     * [浏览器检测](#browser-detection)
+    * [性能分析](#performance-analysis)
   * UI
     * [代码高亮](#code-highlighting)
     * [加载状态](#loading-status)
@@ -136,6 +138,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 管理着 JavaScript 库，并提供读取和打包它们的工具。
 
+* Yarn: Yarn 是由 Facebook、Google、Exponent 和 Tilde 联合推出了一个新的 JS 包管理工具[官网](https://yarnpkg.com/lang/en/)
 * npm：npm 是 JavaScript 的包管理器。[官网](https://www.npmjs.com/)
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
 * component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
@@ -167,6 +170,7 @@ JavaScript 的模块或加载系统。
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
 * webpack：为浏览器打包 CommonJs/AMD 模块。[官网](https://github.com/webpack/webpack)
 * gulp：用自动化构建工具增强你的工作流程！[官网](http://gulpjs.com/)
+* rollup: JavaScript 模块打包器! [官网](https://rollupjs.org/) [中文](http://www.rollupjs.com/)
 
 <h2 id="testing-frameworks">测试框架</h2>
 
@@ -242,6 +246,7 @@ JavaScript 的模块或加载系统。
 * mithril.js：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）[官网](https://github.com/lhorie/mithril.js)
 * jsblocks：jsblocks 是一个更好的 MV-ish 框架。[官网](https://github.com/astoilkov/jsblocks)
 * LiquidLava：易懂的、用于构建用户界面的 MVC 框架。[官网](http://www.lava-framework.com/)
+* [Electron](http://hao.jobbole.com/electron/)：用Html、CSS和JavaScript构建跨平台的客户端应用程序。[官网](http://electron.atom.io/)、[GitHub](https://github.com/electron/electron)
 
 <h2 id="node-powered-cms-frameworks">基于 Node 的 CMS 框架</h2>
 
@@ -268,10 +273,19 @@ JavaScript 的模块或加载系统。
 * eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/)
 * JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates)
 * t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js)
-* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/jade)
+* pug：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/pug)
 * EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
+
+<h2 id="data-flow">Flux</h2>
+
+Flux是Facebook用来构建客户端Web应用的应用架构
+
+* Reflux是根据React的flux创建的单向数据流类库。[官网](https://github.com/reflux/refluxjs)
+* Redux是可预测javascript应用程序状态的容器。[官网](http://redux.js.org/)
+* Mobx是通过透明的函数响应式编程实现简单，可扩展的状态管理库。[官网](https://mobx.js.org/)
+* Dva是基于Redux, Redux-saga 和 react-router@2.x的轻量级的框架。[官网](https://github.com/dvajs/dva)
 
 <h2 id="data visualization">数据可视化</h2>
 
@@ -280,7 +294,7 @@ Web 数据可视化工具
 * d3：一个对 HTML 和 SVG 进行可视化的 JavaScript 库。[官网](https://github.com/mbostock/d3)
 * metrics-graphics：更简洁和拥有更规范的数据图表布局优化算法的库。[官网](https://github.com/mozilla/metrics-graphics)
 * pykcharts.js：经过精心设计后，去除 d3.js 复杂性的 d3.js 图表库。[官网](https://github.com/pykih/PykCharts.js)
-* three.js：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js)
+* [three.js](http://hao.jobbole.com/three-js/)：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js)
 * Chart.js：简单的、基于 canvas 标签的 HTML5 图表库。[官网](https://github.com/nnnick/Chart.js)
 * paper.js：是矢量图形脚本中的瑞士军刀 —— 使用 HTML5 Canvas 将 Scriptographer  移植到 JavaScript [官网](https://github.com/paperjs/paper.js)和浏览器。
 * fabric.js：JavaScript Canvas 库，SVG 与 Canvas 可以相互解析。[官网](https://github.com/kangax/fabric.js)
@@ -389,6 +403,7 @@ Web 数据可视化工具
 * timezone-js：让 JavaScript Date 对象拥有时区功能。使用 Olson zoneinfo 文件记录着时区数据。[官网](https://github.com/mde/timezone-js)
 * date：拥有人性化的 Date() 方法。[官网](https://github.com/MatthewMueller/date)
 * ms.js：小巧的毫秒转换工具。[官网](https://github.com/rauchg/ms.js)
+* timeago.js：一个非常轻量级(~1.7 Kb)的用于将时间转化成`xxx时间前`格式，例如：8分钟前。[官网](http://timeago.org)
 
 <h3 id="string">字符串</h3>
 
@@ -471,6 +486,8 @@ Web 数据可视化工具
 * crossroads：JavaScript 路由。[官网](https://github.com/millermedeiros/crossroads.js)
 * davis.js：使用 pushState、RESTful 风格和可降级的 JavaScript 路由器。[官网](https://github.com/olivernn/davis.js)
 * [angular-ui-router](http://hao.jobbole.com/angular-ui-router/)：基于AngularJS的可嵌套路由。[官网](http://angular-ui.github.io/ui-router/)
+* react-router: Declarative routing for React [官方](https://github.com/ReactTraining/react-router)
+* vue-router: Declarative routing for Vue [官方](https://router.vuejs.org/)
 
 <h3 id="security">安全性</h3>
 
@@ -516,6 +533,10 @@ Web 数据可视化工具
 
 * bowser：一个浏览器检测器。[官网](https://github.com/ded/bowser)
 
+<h3 id="performance-analysis">性能分析</h3>
+
+* easy-monitor：一个轻量级实时 Node.js 项目的内核性能分析工具。[官网](http://www.easy-monitor.cn/document)
+
 ## UI
 
 <h3 id="code-highlighting">代码高亮</h3>
@@ -557,6 +578,7 @@ Web 数据可视化工具
 
 * mousetrap：处理键盘快捷键的 JavaScript 库。[官网](https://github.com/ccampbell/mousetrap)
 * keymaster：定义和调度键盘快捷键的小型库。[官网](https://github.com/madrobby/keymaster)
+* [hotkeys.js](https://github.com/jaywcjlove/hotkeys)：一个强健的 Javascript 库用于捕获键盘输入和输入的组合键，它易于使用，没有依赖。[官网](https://jaywcjlove.github.io/hotkeys/)
 * Keypress：键入捕捉工具库，任何键都可以成为一个修饰健。[官网](https://github.com/dmauro/Keypress)
 * KeyboardJS：一个用于绑定键盘组合的 JavaScript 库，让你脱离快捷键和快捷键组合冲突的痛苦。[官网](https://github.com/RobertWHurst/KeyboardJS)
 * jquery.hotkeys：jQuery Hotkeys 能让你在代码任何的地方监听键盘事件，并几乎支持所有按键组合。[官网](https://github.com/jeresig/jquery.hotkeys)
@@ -634,6 +656,7 @@ Web 数据可视化工具
 * fullcalendar：全尺寸、支持拖放事件的日历（jQuery 插件）。[官网](https://github.com/fullcalendar/fullcalendar)
 * rome：可定制的日期（和时间）选择器。无依赖，可选 UI。[官网](https://github.com/bevacqua/rome)
 * datedropper： datedropper 是一个 jQuery 插件，它提供了快速简易的方式去管理日期输入框。[官网](https://github.com/felicegattuso/datedropper)
+* flatpickr： flatpickr 是一个轻量、强大、无依赖的日历和时间选择器插件，支持移动端，并支持React、Ember、Angular和Vue。[官网](https://chmln.github.io/flatpickr/)
 
 ### 选择
 
@@ -678,6 +701,7 @@ Web 数据可视化工具
 * bootstrap-modal：对 Bootstrap 默认的模态框类进行扩展。其支持响应式、可堆叠和 ajax 等。[官网](https://github.com/jschr/bootstrap-modal)
 * css-modal：纯 CSS 打造的模态框。[官网](https://github.com/drublic/css-modal)
 * jquery-popup-overlay：是一个响应式的和可访问性强的模态框和工具提示框（tooltips）jQuery 插件。[官网](https://github.com/vast-engineering/jquery-popup-overlay)
+* layer：国内最多人使用的web弹层组件。[官网](https://github.com/sentsin/layer/)
 
 <h3 id="scroll">滚动</h3>
 
@@ -748,7 +772,7 @@ Web 数据可视化工具
 
 <h3 id="animations">动画</h3>
 
-* velocity：加速 JavaScript 动画。[官网](https://github.com/julianshapiro/velocity)
+* [velocity](http://hao.jobbole.com/velocity-js/)：加速 JavaScript 动画。[官网](https://github.com/julianshapiro/velocity)
 * [jquery.transit](http://hao.jobbole.com/jquery-transit/)：拥有超级流畅的 CSS3 变换和过渡的 jQuery 插件。[官网](https://github.com/rstacruz/jquery.transit)
 * impess.js：在 HTML 文档里，运用 CSS3 变换和过渡制作类似 Prezi 的展现效果。[官网](https://github.com/impress/impress.js)
 * [bounce.js](http://hao.jobbole.com/bounce-js/)：可以立刻创建有趣的 CSS3 动画。[官网](https://github.com/tictail/bounce.js)
@@ -761,6 +785,7 @@ Web 数据可视化工具
 * [lena.js](http://hao.jobbole.com/lena-js/)：拥有滤镜和实用功能的图像处理库。[官网](https://github.com/davidsonfellipe/lena.js)
 * [pica](http://hao.jobbole.com/pica/)：高质量地调整图片大小（拥有快速的、纯 JS 实现的 Lanczos 滤镜算法）。[官网](https://github.com/nodeca/pica)
 * cropper：一个简单的图像裁剪 jQuery 插件。[官网](https://github.com/fengyuanchen/cropper)
+* AlloyImage：腾讯前端开源的基于HTML5的专业级图像处理开源引擎。[官网](https://github.com/AlloyTeam/AlloyImage)
 
 <h3 id="es6">ECMAScript 6</h3>
 
@@ -782,6 +807,7 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
+* [Edge.js](http://hao.jobbole.com/edge-js/)：运行在一个进程中运行.NET和Node.js代码。[官网](http://tjanczuk.github.io/edge/)、[GitHub](https://github.com/tjanczuk/edge)
 
 <h2 id="worth-reading">精品阅读</h2>
 
@@ -801,12 +827,14 @@ Web 数据可视化工具
 <h1 id="resources">资源</h1>
 
 <h3 id="influential-books">有影响力的书</h3>
+
 *具有广泛影响且值得阅读的前端经典书籍。*
 
-*《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
-*《你不知道的Javascript》：英文版 "You Don't Know JS"
+* 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
+* 《你不知道的Javascript》：英文版 "You Don't Know JS"
 
 <h3 id="websites">知名网站</h3>
+
 *值得关注的前端技术站点。*
 
 <h4>中文站点</h4>
@@ -818,6 +846,7 @@ Web 数据可视化工具
 待补充
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
+
 * 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
 * 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg" width=150 height=150>
